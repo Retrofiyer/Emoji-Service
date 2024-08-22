@@ -1,5 +1,5 @@
 <div>
-    <h1>Survey Microservice</h1>
+    <h1>Emoji Microservice</h1>
 </div>
 
 ## About The Project
